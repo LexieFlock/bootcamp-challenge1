@@ -17,11 +17,11 @@ THEN I find semantic HTML elements (done)
 
 WHEN I view the structure of the HTML elements
 
-THEN I find that the elements follow a logical structure independent of styling and positioning (wip)
+THEN I find that the elements follow a logical structure independent of styling and positioning (no change needed?)
 
 WHEN I view the image elements
 
-THEN I find accessible alt attributes
+THEN I find accessible alt attributes (wip)
 
 WHEN I view the heading attributes
 
